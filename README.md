@@ -1,3 +1,5 @@
-# test-branch 
-test
-1+1
+# gh 
+GH test
+function divide(a, b) {
+  return a / b;  // no zero check
+}
